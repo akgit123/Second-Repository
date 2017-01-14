@@ -1,2 +1,2 @@
 # Second-Repository
-Master Copy by Ashish
+Master Copy to Ashish
